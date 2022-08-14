@@ -1,0 +1,12 @@
+[08-Aug-2022 23:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[08-Aug-2022 23:16:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[08-Aug-2022 23:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17

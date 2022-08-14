@@ -1,0 +1,8 @@
+[09-Aug-2022 02:54:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[09-Aug-2022 02:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/touchsk1/public_html/sttheresasitisalem/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
